@@ -1,85 +1,85 @@
 REPORT:
-Patient name: Mr. Thomas Reilly
+Patient name: Thomas Reilly
 Age: 58
 -------------------------------------
 Diagnoses:
-- Ischemic heart disease (post triple bypass in 2019)
+- Ischemic heart disease (post triple bypass, 2019)
 - Heart failure with reduced ejection fraction (LVEF ~35%)
 - Chronic hypertension
-- Type 2 diabetes mellitus, poorly controlled
-- Chronic kidney disease, stage 3b
-- Albuminuria (UACR 320)
-- Persistent mild hyperkalemia (~5.8)
+- Poorly controlled type 2 diabetes mellitus (HbA1c 9.1%)
+- Chronic kidney disease stage 3b (eGFR 36, albuminuria)
+- Hyperkalemia (K+ ~5.8)
 - Depression
-- Medication nonadherence/passive noncompliance
+- Polypharmacy
+- Passive noncompliance with medication
 -------------------------------------
 Past treatments:
-- Metformin (discontinued, GI intolerance)
-- Insulin glargine (35 units nightly, inconsistent use)
-- Sertraline 50 mg daily (irregular use)
-- Beta-blocker (unspecified)
+- Triple bypass surgery (2019)
+- Metformin (discontinued due to GI side effects)
+- Insulin glargine, 35 units nightly (inconsistent use)
+- Sertraline 50 mg daily (noncompliant)
+- Beta-blocker (unspecified, not carvedilol)
+- RAAS inhibitor (likely ACEi/ARB, implied)
 -------------------------------------
 Current discussion:
-Clinical deterioration noted over past three months. Symptoms include worsening fatigue and lower extremity edema. Lab findings: NT-proBNP elevated (4200), worsening kidney function (eGFR drop from 48 to 36 in six months), increased UACR, persistent hyperkalemia, poor diabetes control (HbA1c 9.1%), and worsening depression with passive noncompliance.
+Mr. Reilly is presenting with clinical deterioration characterized by worsening heart failure symptoms, declining renal function, persistent hyperkalemia, poorly controlled diabetes, and depressive symptoms. There is also evidence of poor medication adherence and social isolation following bereavement.
 -------------------------------------
 Recommendations:
-- Switch beta-blocker to carvedilol for better heart failure management.
-- Start dapagliflozin 10 mg daily for heart failure and renal protection, with close potassium monitoring.
-- Switch to a fixed-ratio combination of insulin degludec and liraglutide for diabetes control with cardiovascular and renal benefits.
-- Start patiromer 8.4 grams once daily for hyperkalemia.
-- Consider long-acting injectable antipsychotic (aripiprazole) for depression if oral medication adherence remains poor.
-- Consider increasing sertraline to 100 mg daily if tolerated.
-- Initiate social work consult and home health referral for psychosocial support and assistance with care.
-- Simplify and coordinate medications, possibly using a blister pack system to improve adherence.
+- Switch current beta-blocker to carvedilol (better for heart failure)
+- Initiate dapagliflozin 10 mg daily (monitor potassium)
+- Switch to fixed-ratio insulin degludec/liraglutide combination for diabetes control
+- Start patiromer 8.4 g/d for hyperkalemia
+- Increase sertraline to 100 mg if tolerated, or consider a long-acting injectable antipsychotic (aripiprazole) for depression and adherence issues
+- Involve social work and home health services
+- Simplify medication regimen and pharmacy coordination (blister pack system)
 -------------------------------------
 Prescriptions:
-- Carvedilol (dose to be determined)
+- Carvedilol (dose unspecified)
 - Dapagliflozin 10 mg daily
-- Insulin degludec/liraglutide fixed-ratio combination (dose to be determined)
-- Patiromer 8.4 g daily
-- Sertraline (consider dose increase to 100 mg)
-- Aripiprazole LAI (if needed, dose to be determined)
+- Fixed-ratio insulin degludec/liraglutide (dose TBD)
+- Patiromer 8.4 grams once daily
+- Sertraline 100 mg daily (if tolerated) OR long-acting injectable aripiprazole (dose TBD)
 
 #########################################
 
 STRUCTURED OUTPUT:
 {
-  "patient_name": "Mr. Thomas Reilly",
+  "patient_name": "Thomas Reilly",
   "age": 58,
   "diagnoses": [
-    "Ischemic heart disease (post triple bypass in 2019)",
+    "Ischemic heart disease (post triple bypass, 2019)",
     "Heart failure with reduced ejection fraction (LVEF ~35%)",
     "Chronic hypertension",
-    "Type 2 diabetes mellitus, poorly controlled",
-    "Chronic kidney disease, stage 3b",
-    "Albuminuria (UACR 320)",
-    "Persistent mild hyperkalemia (~5.8)",
+    "Poorly controlled type 2 diabetes mellitus (HbA1c 9.1%)",
+    "Chronic kidney disease stage 3b (eGFR 36, albuminuria)",
+    "Hyperkalemia (K+ ~5.8)",
     "Depression",
-    "Medication nonadherence/passive noncompliance"
+    "Polypharmacy",
+    "Passive noncompliance with medication"
   ],
   "past_treatments": [
-    "Metformin (discontinued, GI intolerance)",
-    "Insulin glargine (35 units nightly, inconsistent use)",
-    "Sertraline 50 mg daily (irregular use)",
-    "Beta-blocker (unspecified)"
+    "Triple bypass surgery (2019)",
+    "Metformin (discontinued due to GI side effects)",
+    "Insulin glargine, 35 units nightly (inconsistent use)",
+    "Sertraline 50 mg daily (noncompliant)",
+    "Beta-blocker (unspecified, not carvedilol)",
+    "RAAS inhibitor (likely ACEi/ARB, implied)"
   ],
-  "current_discussion": "Clinical deterioration noted over past three months. Symptoms include worsening fatigue and lower extremity edema. Lab findings: NT-proBNP elevated (4200), worsening kidney function (eGFR drop from 48 to 36 in six months), increased UACR, persistent hyperkalemia, poor diabetes control (HbA1c 9.1%), and worsening depression with passive noncompliance.",
+  "current_discussion": "Mr. Reilly is presenting with clinical deterioration characterized by worsening heart failure symptoms, declining renal function, persistent hyperkalemia, poorly controlled diabetes, and depressive symptoms. There is also evidence of poor medication adherence and social isolation following bereavement.",
   "recommendations": [
-    "Switch beta-blocker to carvedilol for better heart failure management.",
-    "Start dapagliflozin 10 mg daily for heart failure and renal protection, with close potassium monitoring.",
-    "Switch to a fixed-ratio combination of insulin degludec and liraglutide for diabetes control with cardiovascular and renal benefits.",
-    "Start patiromer 8.4 grams once daily for hyperkalemia.",
-    "Consider long-acting injectable antipsychotic (aripiprazole) for depression if oral medication adherence remains poor.",
-    "Consider increasing sertraline to 100 mg daily if tolerated.",
-    "Initiate social work consult and home health referral for psychosocial support and assistance with care.",
-    "Simplify and coordinate medications, possibly using a blister pack system to improve adherence."
+    "Switch current beta-blocker to carvedilol (better for heart failure)",
+    "Initiate dapagliflozin 10 mg daily (monitor potassium)",
+    "Switch to fixed-ratio insulin degludec/liraglutide combination for diabetes control",
+    "Start patiromer 8.4 g/d for hyperkalemia",
+    "Increase sertraline to 100 mg if tolerated, or consider a long-acting injectable antipsychotic (aripiprazole) for depression and adherence issues",
+    "Involve social work and home health services",
+    "Simplify medication regimen and pharmacy coordination (blister pack system)"
   ],
   "prescriptions": [
-    "Carvedilol (dose to be determined)",
+    "Carvedilol (dose unspecified)",
     "Dapagliflozin 10 mg daily",
-    "Insulin degludec/liraglutide fixed-ratio combination (dose to be determined)",
-    "Patiromer 8.4 g daily",
-    "Sertraline (consider dose increase to 100 mg)",
-    "Aripiprazole LAI (if needed, dose to be determined)"
+    "Fixed-ratio insulin degludec/liraglutide (dose TBD)",
+    "Patiromer 8.4 grams once daily",
+    "Sertraline 100 mg daily (if tolerated) OR long-acting injectable aripiprazole (dose TBD)"
   ]
 }

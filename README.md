@@ -1,7 +1,7 @@
 # HealthCare LLM Demo
 
 This demo processes an example medical transcript and extracts patient information into a predefined structured JSON output.
-It also produces a example of custom formatted report.
+It also produces an example of a custom formatted report.
 - Input: `examples/medical_transcript.txt`
 - Output: `examples/example_output.txt`
 
