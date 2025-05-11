@@ -1,0 +1,23 @@
+Speaker 1: Good afternoon, everyone. Let’s begin. Today we’re reviewing the case of Mr. Thomas Reilly, age 58, who has been under our care intermittently since 2021. He’s been referred back to the council due to clinical deterioration over the past three months.
+
+Speaker 2: I’ll start. Mr. Reilly has a history of ischemic heart disease with a triple bypass in 2019. His left ventricular ejection fraction has remained around 35%, and he has chronic hypertension. He was admitted again two weeks ago with worsening fatigue and lower extremity edema. His NT-proBNP came back elevated at 4,200, and the latest echocardiogram shows no significant change.
+
+Speaker 3: He also has poorly controlled type 2 diabetes. His last HbA1c was 9.1%. He doesn’t tolerate metformin due to GI side effects. He’s on insulin glargine, 35 units nightly, but he’s not been consistently taking it.
+
+Speaker 4: Kidney function is worsening. He’s now at stage 3b CKD. His eGFR dropped from 48 to 36 in the last six months. Albuminuria has increased too—his UACR is now at 320. And he has persistent mild hyperkalemia, generally hovering around 5.8.
+
+Speaker 5: Psychologically, he’s deteriorating. He's depressed and minimally engaged. He was prescribed sertraline 50 mg daily, but reports indicate he hasn’t been taking it regularly. He’s been isolated since his wife died last year, and there are signs of passive noncompliance with medical care.
+
+Speaker 1: Thank you. Clearly this is a case of multiple chronic conditions interacting. Let’s talk about how we should adjust his treatment plan.
+
+Speaker 2: From a cardiology perspective, I suggest switching his beta-blocker to carvedilol. It’s better for his heart failure profile. Also, I’d like to start dapagliflozin. It benefits both heart failure and renal outcomes, provided we watch his potassium closely.
+
+Speaker 3: I’m fine with dapagliflozin at 10 mg daily. For his diabetes, I suggest simplifying his insulin regimen. We can switch to a fixed-ratio combination of insulin degludec and liraglutide. That would help address both hyperglycemia and weight, and liraglutide might have additional cardiovascular and renal benefits.
+
+Speaker 4: We do need to deal with the potassium. If we’re adding dapagliflozin and keeping RAAS inhibition, I’d recommend starting patiromer—8.4 grams once daily. That should help stabilize potassium levels.
+
+Speaker 5: On the mental health side, we need to intervene more aggressively. If he’s missing oral doses, maybe we should look at a long-acting injectable like aripiprazole. I’d also be okay with increasing sertraline to 100 mg if tolerated. But we need a social work consult and probably a home health referral.
+
+Speaker 6: From a pharmacy standpoint, he’s on at least 12 different medications. We should simplify where possible and use a blister pack system. I can coordinate that through our outpatient pharmacy. It might help with adherence.
+
+Speaker 1: All right. So, we’re looking at adjusting his cardiac meds, switching insulin types, starting a potassium binder, increasing his antidepressant, and bringing in social support. Everyone in agreement? Okay, I’ll write up the summary and send it to his PCP. Let’s ensure follow-through. Thanks, everyone.

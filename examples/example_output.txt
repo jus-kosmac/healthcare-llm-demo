@@ -1,0 +1,85 @@
+REPORT:
+Patient name: Mr. Thomas Reilly
+Age: 58
+-------------------------------------
+Diagnoses:
+- Ischemic heart disease (post triple bypass in 2019)
+- Heart failure with reduced ejection fraction (LVEF ~35%)
+- Chronic hypertension
+- Type 2 diabetes mellitus, poorly controlled
+- Chronic kidney disease, stage 3b
+- Albuminuria (UACR 320)
+- Persistent mild hyperkalemia (~5.8)
+- Depression
+- Medication nonadherence/passive noncompliance
+-------------------------------------
+Past treatments:
+- Metformin (discontinued, GI intolerance)
+- Insulin glargine (35 units nightly, inconsistent use)
+- Sertraline 50 mg daily (irregular use)
+- Beta-blocker (unspecified)
+-------------------------------------
+Current discussion:
+Clinical deterioration noted over past three months. Symptoms include worsening fatigue and lower extremity edema. Lab findings: NT-proBNP elevated (4200), worsening kidney function (eGFR drop from 48 to 36 in six months), increased UACR, persistent hyperkalemia, poor diabetes control (HbA1c 9.1%), and worsening depression with passive noncompliance.
+-------------------------------------
+Recommendations:
+- Switch beta-blocker to carvedilol for better heart failure management.
+- Start dapagliflozin 10 mg daily for heart failure and renal protection, with close potassium monitoring.
+- Switch to a fixed-ratio combination of insulin degludec and liraglutide for diabetes control with cardiovascular and renal benefits.
+- Start patiromer 8.4 grams once daily for hyperkalemia.
+- Consider long-acting injectable antipsychotic (aripiprazole) for depression if oral medication adherence remains poor.
+- Consider increasing sertraline to 100 mg daily if tolerated.
+- Initiate social work consult and home health referral for psychosocial support and assistance with care.
+- Simplify and coordinate medications, possibly using a blister pack system to improve adherence.
+-------------------------------------
+Prescriptions:
+- Carvedilol (dose to be determined)
+- Dapagliflozin 10 mg daily
+- Insulin degludec/liraglutide fixed-ratio combination (dose to be determined)
+- Patiromer 8.4 g daily
+- Sertraline (consider dose increase to 100 mg)
+- Aripiprazole LAI (if needed, dose to be determined)
+
+#########################################
+
+STRUCTURED OUTPUT:
+{
+  "patient_name": "Mr. Thomas Reilly",
+  "age": 58,
+  "diagnoses": [
+    "Ischemic heart disease (post triple bypass in 2019)",
+    "Heart failure with reduced ejection fraction (LVEF ~35%)",
+    "Chronic hypertension",
+    "Type 2 diabetes mellitus, poorly controlled",
+    "Chronic kidney disease, stage 3b",
+    "Albuminuria (UACR 320)",
+    "Persistent mild hyperkalemia (~5.8)",
+    "Depression",
+    "Medication nonadherence/passive noncompliance"
+  ],
+  "past_treatments": [
+    "Metformin (discontinued, GI intolerance)",
+    "Insulin glargine (35 units nightly, inconsistent use)",
+    "Sertraline 50 mg daily (irregular use)",
+    "Beta-blocker (unspecified)"
+  ],
+  "current_discussion": "Clinical deterioration noted over past three months. Symptoms include worsening fatigue and lower extremity edema. Lab findings: NT-proBNP elevated (4200), worsening kidney function (eGFR drop from 48 to 36 in six months), increased UACR, persistent hyperkalemia, poor diabetes control (HbA1c 9.1%), and worsening depression with passive noncompliance.",
+  "recommendations": [
+    "Switch beta-blocker to carvedilol for better heart failure management.",
+    "Start dapagliflozin 10 mg daily for heart failure and renal protection, with close potassium monitoring.",
+    "Switch to a fixed-ratio combination of insulin degludec and liraglutide for diabetes control with cardiovascular and renal benefits.",
+    "Start patiromer 8.4 grams once daily for hyperkalemia.",
+    "Consider long-acting injectable antipsychotic (aripiprazole) for depression if oral medication adherence remains poor.",
+    "Consider increasing sertraline to 100 mg daily if tolerated.",
+    "Initiate social work consult and home health referral for psychosocial support and assistance with care.",
+    "Simplify and coordinate medications, possibly using a blister pack system to improve adherence."
+  ],
+  "prescriptions": [
+    "Carvedilol (dose to be determined)",
+    "Dapagliflozin 10 mg daily",
+    "Insulin degludec/liraglutide fixed-ratio combination (dose to be determined)",
+    "Patiromer 8.4 g daily",
+    "Sertraline (consider dose increase to 100 mg)",
+    "Aripiprazole LAI (if needed, dose to be determined)"
+  ]
+}

@@ -1,0 +1,12 @@
+version: "2.4"
+
+services:
+  healthcare-llm-demo:
+    image: healthcare-llm-demo:local-dev
+    volumes:
+      - ./src:/app/src
+      - ./examples:/app/examples
+    env_file:
+      - .env
+    working_dir: /app/src
+    command: main.py
